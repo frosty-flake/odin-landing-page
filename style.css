@@ -22,6 +22,10 @@ a {
     color: #F9FAF8;
 }
 
+.one {
+    padding: 0px 150px;
+}
+
 .header{
     display: flex;
     justify-content: space-between;
@@ -60,6 +64,7 @@ a {
     justify-content: space-between;
     align-items: flex-start;
     padding: 30px;
+    gap: 20px;
 }
 
 .container-one div {
@@ -123,9 +128,28 @@ a {
     align-items:center;
     justify-content: center;
     flex: 1;
+    padding: 100px 200px;
+}
+
+.three .quote {
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+    font-weight: 200;
+}
+
+.three .quote-src {
+    color: #1F2937;
+    font-weight: 800;
+    font-size: 24px;
+    margin-left: auto;
 }
 
 /* Styles For Section Four */
+
+.four {
+    padding: 0 auto;
+}
 
 .cta-box {
     display: flex;
@@ -156,6 +180,12 @@ a {
 
 button {
     padding: 5px 20px;
+}
+
+/* Style for Footer */
+
+.footer{
+    padding: 30px;
 }
 
 /* Mixed Styles */

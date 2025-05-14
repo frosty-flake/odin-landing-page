@@ -9,4 +9,7 @@ make a dummy landing page. I will practice
 
 Image credits:
 
-Ruler image by ([Ashkan Forouzani](https://unsplash.com/photos/blue-pen-on-black-surface-11YQuWPQ9Bw)) on Unsplash.
+Ruler image by <a href="https://unsplash.com/photos/blue-pen-on-black-surface-11YQuWPQ9Bw">Ashkan Forouzani</a>on Unsplash
+
+Paper image by <a href="https://unsplash.com/@mjh_shikder?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">MJH SHIKDER</a> on <a href="https://unsplash.com/photos/white-printer-paper-on-white-surface-sWaBlk7OWrE?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+      
